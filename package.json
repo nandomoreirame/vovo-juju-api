@@ -1,0 +1,20 @@
+{
+  "name": "vovo-juju-api",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandomoreirame/vovo-juju-api.git"
+  },
+  "keywords": [],
+  "author": "Fernando Moreira <nandomoreira.me@gmail.com> (https://nandomoreira.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nandomoreirame/vovo-juju-api/issues"
+  },
+  "homepage": "https://github.com/nandomoreirame/vovo-juju-api#readme"
+}
