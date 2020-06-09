@@ -1,0 +1,30 @@
+{
+  "name": "@vovojuju/api",
+  "description": "API com algumas falas da fofa da vovó Juju (animação Irmão do Jorel)",
+  "homepage": "https://github.com/nandomoreirame/vovo-juju-api",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandomoreirame/vovo-juju-api.git"
+  },
+  "keywords": [],
+  "author": "Fernando Moreira <nandomoreira.me@gmail.com> (https://nandomoreira.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nandomoreirame/vovo-juju-api/issues"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "next": "latest",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0"
+  }
+}
