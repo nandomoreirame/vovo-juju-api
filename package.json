@@ -1,6 +1,6 @@
 {
   "name": "@vovojuju/api",
-  "description": "API com algumas falas da fofa da vovó Juju (animação Irmão do Jorel)",
+  "description": "Uma pequena API com as falas da Vovó Juju (animação Irmão do Jorel), usando Nextjs e hospedado na Vercel",
   "homepage": "https://github.com/nandomoreirame/vovo-juju-api",
   "version": "1.0.0",
   "repository": {
